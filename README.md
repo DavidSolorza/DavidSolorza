@@ -5,14 +5,6 @@ Full Stack Developer | Web Applications | Automation
 </p>
 
 
-This section will showcase an interactive 3D experience built with Three.js.
-
-<p align="center">
-
-[Open 3D Developer Experience](https://your-3d-project-link)
-
-</p>
-
 ## About Me
 
 Software developer focused on building modern web applications, automation tools, and scalable solutions.  
