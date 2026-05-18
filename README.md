@@ -58,7 +58,7 @@ This profile showcases projects related to:
 
 ## Contact
 GitHub
-https://github.com/DavidSolorza
+https://solorza.online/
 
 
 <p align="center">
